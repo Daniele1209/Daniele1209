@@ -10,8 +10,6 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Daniele1209&show_icons=true&theme=tokyonight)
 
-<br />
-
 ---
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniele1209&repo=Machine-Learning-Playground&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
