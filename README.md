@@ -13,7 +13,7 @@
 ---
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniele1209&repo=Machine-Learning-Playground&theme=onedark)](https://github.com/Daniele1209/Machine-Learning-Playground)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniele1209&repo=COVID-19-chart-app-using-Qt&theme=onedark)](https://github.com/Daniele1209/Singularity)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniele1209&repo=Singularity&theme=onedark)](https://github.com/Daniele1209/Singularity)
 
 
 [twitter]: https://twitter.com/MoshDany
