@@ -12,7 +12,7 @@
 
 ---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniele1209&repo=Machine-Learning-Playground&theme=onedark)](https://github.com/Daniele1209/Machine-Learning-Playground)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniele1209&repo=Mask-Recognition-deeplearning&theme=onedark)](https://github.com/Daniele1209/Mask-Recognition-deeplearning)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Daniele1209&repo=Singularity&theme=onedark)](https://github.com/Daniele1209/Singularity)
 
 [twitter]: https://twitter.com/MoshDany
