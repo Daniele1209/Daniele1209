@@ -8,7 +8,7 @@
 
 ---
 
-<img src = "night.gif"/>
+<img src = "night.gif" height = "400"/>
 
 ---
 
