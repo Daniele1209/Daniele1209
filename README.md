@@ -10,8 +10,6 @@
 
 <img src = "night.gif" height = "400"/>
 
----
-
 [twitter]: https://twitter.com/MoshDany
 [instagram]: https://www.instagram.com/daniele__mos
 [linkedin]: https://www.linkedin.com/in/daniele-mos-121209
