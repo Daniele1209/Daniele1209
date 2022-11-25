@@ -13,3 +13,5 @@
 [twitter]: https://twitter.com/MoshDany
 [instagram]: https://www.instagram.com/daniele__mos
 [linkedin]: https://www.linkedin.com/in/daniele-mos-121209
+
+![](https://komarev.com/ghpvc/?username=Daniele1209&color=619cb9&style=flat-square&label=PROFILE+VIEWS)
