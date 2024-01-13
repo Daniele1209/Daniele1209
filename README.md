@@ -16,7 +16,6 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Daniele1209&color=619cb9&style=flat-square&label=PROFILE+VIEWS)
 <br />
 <p> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
