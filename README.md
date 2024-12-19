@@ -1,4 +1,4 @@
-Machine Learning Engineer with about 3 years of experience, passionate about implementing ML in all kinds of areas (e.g. autonomous racing, bioinformatics, particle physics). 
+Machine Learning Engineer with about 3 years of experience, passionate about implementing domain specific ML (e.g. autonomous racing, bioinformatics, particle physics). 
 
 🧪 Currently into MLOps, HPC, ML from scratch, Reinforcement Learning, Transformer-based Models
 
